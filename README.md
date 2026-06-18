@@ -2,11 +2,9 @@
 
 MCP went from experiment to critical infrastructure in about 16 months — and in December 2025 it moved under the **[Agentic AI Foundation](https://aaif.io)** (a Linux Foundation fund) alongside a security ecosystem that barely existed a year ago. But "who are the leaders" is the wrong question, because a solo developer and a Fortune 500 security team are buying completely different things.
 
-So here are two lists. The solo list is what you can actually pull down today — free, open-source, self-serve, no procurement. The enterprise list is the six-figure control-plane layer. A handful of names bridge both.
-
 ---
 
-## Top 10 for the Solo Developer
+## Top 10 for Developers
 *Free / open-source / self-serve. Start at the top.*
 
 1. **[Model Context Protocol + the MCP Registry](https://modelcontextprotocol.io)** — The spec itself, now neutrally governed under the AAIF. Follow the Registry and the 2026 roadmap (Server Cards, conformance tests, SSO-based auth); it's the source of truth everything else builds on.
