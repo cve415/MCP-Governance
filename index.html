@@ -252,7 +252,7 @@ function renderGrid(filterText = '') {
         
         const subtitle = item.developer || item.category || item.type || 'Standard';
         const metaTag = item.category || item.type || 'Framework';
-        const linkHTML = item.url ? `<a class="card-link" href="${item.url}" target="_blank">View Target ↗</a>` : '';
+        const linkHTML = item.url ? `<a class="card-link" href="${item.url}" target="_blank">View ↗</a>` : '';
 
         card.innerHTML = `
             <div>
