@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Zscaler",
+    "developer": "Zscaler",
+    "category": "Network",
+    "description": "AI Broker + Agent Registry broker MCP and agent-to-agent (A2A) traffic at the network control plane; added AI red-teaming for MCP servers. The clearest network-level leader.",
+    "url": "https://www.zscaler.com"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "developer": "Palo Alto Networks",
+    "category": "Network + Identity",
+    "description": "Prisma AIRS for runtime AI security, plus Idira (built on its CyberArk acquisition) for agentic identity. Network + identity in one stack.",
+    "url": "https://www.paloaltonetworks.com"
+  },
+  {
+    "name": "Zenity",
+    "developer": "Zenity",
+    "category": "Posture",
+    "description": "Agentic AI security posture management (AISPM) with MCP-aware governance and step-level context inspection. The pure-play posture leader.",
+    "url": "https://zenity.io"
+  },
+  {
+    "name": "Salt Security",
+    "developer": "Salt Security",
+    "category": "Posture",
+    "description": "Agentic Security Platform mapping the Agentic Security Graph across LLMs, MCP servers, and APIs; strong on eliminating shadow MCP.",
+    "url": "https://salt.security/agentic-ai"
+  },
+  {
+    "name": "CrowdStrike",
+    "developer": "CrowdStrike",
+    "category": "Identity",
+    "description": "Continuous Identity for AI Agents: cryptographically verifiable agent identity (SPIFFE), ownership preserved through sub-agent delegation, zero-standing-privilege.",
+    "url": "https://www.crowdstrike.com"
+  },
+  {
+    "name": "SailPoint (+ Entro)",
+    "developer": "SailPoint",
+    "category": "Identity",
+    "description": "Agentic Fabric for agent and non-human identity governance; acquiring Tel Aviv's Entro for deep secrets discovery and NHI scanning.",
+    "url": "https://www.sailpoint.com"
+  },
+  {
+    "name": "MintMCP",
+    "developer": "MintMCP",
+    "category": "Gateway",
+    "description": "Enterprise MCP gateway: SSO, RBAC, and virtual MCP bundling. The managed gateway that deploys without infra overhead.",
+    "url": "https://mintmcp.com"
+  },
+  {
+    "name": "TrueFoundry",
+    "developer": "TrueFoundry",
+    "category": "Gateway",
+    "description": "MCP gateway / control plane enforcing OAuth identity injection, per-tool RBAC, and immutable audit logs across servers.",
+    "url": "https://www.truefoundry.com"
+  },
+  {
+    "name": "Operant AI",
+    "developer": "Operant AI",
+    "category": "Gateway",
+    "description": "MCP gateway with runtime protection, identity-aware enforcement, and NHI security; also a leading source of MCP threat research.",
+    "url": "https://www.operant.ai"
+  },
+  {
+    "name": "Runlayer",
+    "developer": "Runlayer",
+    "category": "Orchestration",
+    "description": "Access control and rate-limiting purpose-built for high-volume agent orchestration at scale.",
+    "url": "https://www.runlayer.com"
+  },
+  {
+    "name": "Cisco AI Defense",
+    "developer": "Cisco",
+    "category": "Network/Edge",
+    "description": "Network/edge AI defense layer for MCP and agent traffic. Honorable mention for enterprises with existing Cisco estates.",
+    "url": "https://www.cisco.com"
+  },
+  {
+    "name": "Cloudflare",
+    "developer": "Cloudflare",
+    "category": "Network/Edge",
+    "description": "Edge-level protection and observability for AI agent and MCP endpoints. Honorable mention for cloud-native teams.",
+    "url": "https://www.cloudflare.com"
+  },
+  {
+    "name": "Akamai",
+    "developer": "Akamai",
+    "category": "Network/Edge",
+    "description": "Edge security and delivery controls applicable to MCP gateway deployments. Honorable mention for regulated industries.",
+    "url": "https://www.akamai.com"
+  },
+  {
+    "name": "Beyond Identity (Ceros)",
+    "developer": "Beyond Identity",
+    "category": "Identity",
+    "description": "Passwordless identity and device trust for agentic workflows. Honorable mention in the identity layer.",
+    "url": "https://www.beyondidentity.com"
+  },
+  {
+    "name": "Microsoft Entra Agent ID",
+    "developer": "Microsoft",
+    "category": "Identity",
+    "description": "Agent identity within the Microsoft ecosystem. Honorable mention for Entra-centric enterprises.",
+    "url": "https://www.microsoft.com/security"
+  },
+  {
+    "name": "Noma Security",
+    "developer": "Noma Security",
+    "category": "Runtime",
+    "description": "Runtime AI security and posture for agentic applications. Honorable mention in runtime/posture layer.",
+    "url": "https://noma.security"
+  },
+  {
+    "name": "Cyera",
+    "developer": "Cyera",
+    "category": "Data Lineage",
+    "description": "Data security posture and lineage for AI agent data flows. Honorable mention for data governance teams.",
+    "url": "https://www.cyera.io"
+  },
+  {
+    "name": "IBM MCP Gateway (ContextForge Enterprise)",
+    "developer": "IBM",
+    "category": "Gateway",
+    "description": "Enterprise deployment of IBM ContextForge with managed support. Honorable mention bridging open source and enterprise.",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "name": "Microsoft MCP Gateway",
+    "developer": "Microsoft",
+    "category": "Gateway",
+    "description": "Microsoft's MCP gateway for Azure and Copilot ecosystems. Honorable mention for Microsoft-first shops.",
+    "url": "https://www.microsoft.com"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Model Context Protocol + MCP Registry",
+    "developer": "Agentic AI Foundation",
+    "category": "Protocol",
+    "description": "The spec itself, now neutrally governed under the AAIF. Follow the Registry and the 2026 roadmap (Server Cards, conformance tests, SSO-based auth); it's the source of truth everything else builds on.",
+    "url": "https://modelcontextprotocol.io"
+  },
+  {
+    "name": "mcp-scan",
+    "developer": "Invariant Labs (Snyk)",
+    "category": "Scanner",
+    "description": "The single highest-ROI tool here. Detects tool poisoning, rug pulls (hash-based tool pinning), and prompt injection across Claude Desktop, Cursor, Claude Code, Gemini CLI, and Windsurf. uvx mcp-scan@latest, no config, free.",
+    "url": "https://github.com/invariantlabs-ai/mcp-scan"
+  },
+  {
+    "name": "OWASP GenAI Security Project",
+    "developer": "OWASP",
+    "category": "Framework",
+    "description": "The free checklist you build against: the MCP Top 10 plus the Top 10 for Agentic Applications (2026). If you read one thing on this list, read this.",
+    "url": "https://genai.owasp.org/initiatives/agentic-security-initiative/"
+  },
+  {
+    "name": "mcp-use",
+    "developer": "mcp-use",
+    "category": "Infrastructure",
+    "description": "Open-source infrastructure for secure MCP deployment: OAuth, multi-user auth, and context boundaries. Your auth layer for anything you ship.",
+    "url": "https://github.com/mcp-use/mcp-use"
+  },
+  {
+    "name": "IBM ContextForge",
+    "developer": "IBM",
+    "category": "Gateway",
+    "description": "Open-source, self-hostable MCP gateway. The free alternative to the paid enterprise gateways — worth standing up once you run more than one server.",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "name": "Lunar.dev MCPX",
+    "developer": "Lunar.dev",
+    "category": "Observability",
+    "description": "MCP-focused observability, rate limiting, and compliance. Lightweight visibility into what your agents are actually calling.",
+    "url": "https://www.lunar.dev"
+  },
+  {
+    "name": "Backslash Security",
+    "developer": "Backslash",
+    "category": "Scanner",
+    "description": "MCP scanning, hardening, and a real-time MCP proxy built for IDE / vibe-coding workflows. Relevant if your dev loop is agent-heavy.",
+    "url": "https://www.backslash.security"
+  },
+  {
+    "name": "Golf Scanner",
+    "developer": "Open Source",
+    "category": "Scanner",
+    "description": "Open-source Go CLI; discovers MCP server configs across ~7 IDEs and runs ~20 checks against local setups. Workstation hygiene.",
+    "url": "https://github.com/golf-mcp/golf-scanner"
+  },
+  {
+    "name": "mcp-sec-audit",
+    "developer": "Open Source",
+    "category": "Auditor",
+    "description": "Static + dynamic analysis focused on over-privileged tool capabilities (scored 100% on the MCPTox benchmark). Run it before you publish a server.",
+    "url": "https://github.com/nyit-vancouver/mcp-sec-audit"
+  },
+  {
+    "name": "Unified Context Layer (UCL)",
+    "developer": "MCP Ecosystem",
+    "category": "Gateway",
+    "description": "Emerging open context/MCP gateway layer for agentic systems; useful as your local setup grows past a single client.",
+    "url": "https://modelcontextprotocol.io"
+  },
+  {
+    "name": "Operant AI — Securing MCP Guide",
+    "developer": "Operant AI",
+    "category": "Research",
+    "description": "Free 2026 Guide to Securing MCP and Shadow Escape research. Honorable mention for solo practitioners building threat models.",
+    "url": "https://www.operant.ai"
+  },
+  {
+    "name": "MCP Manager",
+    "developer": "MCP Manager",
+    "category": "Gateway",
+    "description": "Self-serve MCP gateway tier for teams outgrowing a single IDE config but not yet on enterprise procurement.",
+    "url": "https://mcpmanager.ai"
+  },
+  {
+    "name": "Lasso Security",
+    "developer": "Lasso Security",
+    "category": "Community",
+    "description": "Community MCP tooling and research for agentic security posture. Honorable mention for solo devs tracking emerging threats.",
+    "url": "https://www.lasso.security"
+  }
+]
