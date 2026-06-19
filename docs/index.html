@@ -197,7 +197,7 @@ nav {
             <li><strong>Lock Your Server Hashes:</strong> Use strict version pinning on your tools. Stop third-party servers from changing their code underneath your agent.</li>
             <li><strong>Establish Human-in-the-Loop (HITL) Gates:</strong> Disable un-vetted autonomous execution. Require explicit user approval for any state-changing actions, data mutations, or destructive API calls.</li>
             <li><strong>Isolate Environment Secrets:</strong> Move your API keys out of config JSONs. Force your agent to pull credentials directly from a local environment variable pool.</li>
-            <li><strong>Sandbox Your Ingress Traffic:</strong> Keep your endpoints off the public web. Bridge your cloud setups using authenticated secure tunnels only.</li>
+            <li><strong>Sandbox Your Ingress Traffic:</strong> Keep local MCP endpoints off the public internet. Use mutually authenticated, secure reverse tunnels (e.g., Tailscale, Cloudflare) to bridge remote agents.</li>
         </ul>
     </div>
 </div>
