@@ -40,5 +40,12 @@
     "stage": "body",
     "description": "Adversarial Threat Landscape for AI Systems. v5.4.0 added MCP/A2A-specific techniques — essential for red-team and SOC alignment.",
     "url": "https://atlas.mitre.org"
+  },
+  {
+    "name": "D&B Commercial Graph MCP",
+    "type": "Industry-Wide Compliance",
+    "stage": "established",
+    "description": "A dedicated Model Context Protocol (MCP) layer providing enterprise AI agents with governed, real-time access to identity-verified corporate entity data for secure financial compliance and risk orchestration.",
+    "url": "https://www.prnewswire.com/news-releases/dun--bradstreet-named-2026-databricks-isv-banking-partner-of-the-year-302801711.html"
   }
 ]

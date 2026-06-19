@@ -184,6 +184,22 @@
     "url": "https://www.cyera.com"
   },
   {
+    "name": "Panther AI SOC",
+    "developer": "Databricks / Panther",
+    "category": "Runtime",
+    "stage": "established",
+    "description": "An agentic SOC platform built for security lakehouses. Deploys autonomous security agent swarms to execute continuous, code-driven threat detection, automated alert triage, and complex incident investigation.",
+    "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-agrees-acquire-panther-further-establishing-security"
+  },
+  {
+    "name": "Unity Catalog MCP Gateway",
+    "developer": "Databricks",
+    "category": "Gateway",
+    "stage": "established",
+    "description": "Natively integrates Model Context Protocol (MCP) servers within the Unity Catalog security boundary, enabling enterprise developers to centrally govern agent tooling access across external SaaS environments.",
+    "url": "https://www.databricks.com/blog/agent-bricks-dais-2026"
+  },
+  {
     "name": "MintMCP",
     "developer": "MintMCP",
     "category": "Gateway",
