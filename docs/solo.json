@@ -30,7 +30,7 @@
     "stage": "startup",
     "funding": "$6.3M",
     "round": "Seed",
-    "description": "Open-source infrastructure for secure MCP deployment: OAuth, multi-user auth, and context boundaries. Your auth layer for anything you ship.",
+    "description": "Open-source SDK (formerly mcp-use) to connect any LLM to any MCP server in a few lines of code, plus hosted deployment for MCP servers and apps. Not a security tool itself — it's the build/deploy layer you harden with the scanners, gateways, and auth controls listed here.",
     "url": "https://github.com/mcp-use/mcp-use"
   },
   {

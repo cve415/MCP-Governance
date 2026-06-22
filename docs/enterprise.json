@@ -266,9 +266,9 @@
     "developer": "Arcade.dev",
     "category": "Gateway",
     "stage": "startup",
-    "funding": "$72M",
-    "round": "Total ($60M Series A, 2026)",
-    "description": "Commercial MCP runtime for agentic authorization, contextual access control, and governance auditing. Integrates with corporate IdPs so agents execute tools only within the calling end-user's explicit OAuth permissions. Authored the MCP authorization spec adopted by Anthropic and co-authored the URL elicitation extension.",
+    "funding": "$72M total ($60M Series A, 2026)",
+    "round": "Series A",
+    "description": "Commercial MCP runtime for agentic authorization, contextual access control, and governance auditing. Integrates with corporate IdPs so agents execute tools only within the calling end-user's explicit OAuth permissions. Authored the MCP authorization specification and co-authored the URL elicitation extension.",
     "url": "https://www.arcade.dev"
   },
   {
